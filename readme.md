@@ -22,6 +22,7 @@ JavaScript lovers consider these features as the force of the language. It's ver
 * HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
 * How Browsers Work: Behind the scenes of modern web browsers: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 * Linux 101: https://github.com/pausiber/gnulinux
+* Git: https://git-scm.com/about
 * JavaScript Naming Conventions: https://www.robinwieruch.de/javascript-naming-conventions
 * Style Guide: https://google.github.io/styleguide/jsguide.html
 * Event loop: https://www.youtube.com/watch?v=8aGhZQkoFbQ
