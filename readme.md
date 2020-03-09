@@ -34,6 +34,7 @@ Think about:
 * https://github.com/kamranahmedse/developer-roadmap
 * For git best practises: https://deepsource.io/blog/git-best-practices/
 * For JS best practises: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+* Brendan Eich, An Introduction to JavaScript: https://www.youtube.com/watch?v=1EyRscXrehw *<3*
 
 Utility
 * https://www.heroku.com/ ( For free hosting any kind of app )
